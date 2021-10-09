@@ -1,5 +1,5 @@
 ## Melissa Ignacio
-What tasks did you complete yesterday?
+What tasks did you complete yesterday? \newline
 * I completed...
 What tasks will you complete today?
 * I will complete...
