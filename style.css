@@ -1,8 +1,9 @@
-/* For header section */
+/* Universal Selector */
 * {
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
+/* class selector */
 .MainTitle{
     background-color: rgb(134, 219, 175);
     text-align: center;
@@ -15,8 +16,14 @@
     border-radius: 10pt;
 }
 
-/* For main title of meeting minutes */
-#myHeader{
+/* ID selector */
+#hello{
+    padding: 50px;
+    background-color: blue;
+}
+
+/* Pseudo-class Selector */
+#myHeader:hover{
     color: #072616;
     text-decoration: underline;
 }
@@ -28,6 +35,7 @@
 
 }
 
+/* Element Selector */
 h3{
     margin: auto;
     padding: 5ch;
@@ -37,3 +45,47 @@ h3{
     min-width: 40px;
 }
 
+/* Attribute Selector */
+a[href="https://github.com/"] {
+    color: green;
+  }
+/* Selector List */
+.Agenda, .VideoAndAudio, .Questions{
+    padding: 2px;
+    background-color: blanchedalmond;
+}
+
+/* Descendant Combinator */
+ol li{
+    padding: 2px;
+    margin:5px;
+
+}
+
+/* Child Combinator */
+details > summary{
+    background-color: aqua;
+    margin:50px;
+}
+
+/* General sibling combinator */
+h3 ~ p{
+    background-color: aquamarine;
+    padding: 5px;
+    margin:5px;
+}
+
+/* Adjacent sibling combinator  */
+img + details{
+    background-color: blue;
+    padding: 5px;
+    margin:5px;
+}
+
+/* Combining Two Selectors */
+
+div.Business{
+    padding: 5px;
+    margin:5px;
+    background-color: red;
+}
