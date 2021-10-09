@@ -1,100 +1,70 @@
 ## Melissa Ignacio
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Audrey Zhao
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Jay Guo
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Brandon Park
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Daniel Lam
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Hugs Clorina
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Maged Waly
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Sai Ashritha Kandiraju
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Wesley Wang
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
 ## Alan Zhang
 What tasks did you complete yesterday?
-*
-*
+* I completed...
 What tasks will you complete today?
-*
-*
+* I will complete...
 What issues are blocking you?
-*
-*
+* I am blocked by...
