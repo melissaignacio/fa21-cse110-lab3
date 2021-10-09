@@ -1,0 +1,39 @@
+/* For header section */
+* {
+    font-family: sans-serif;
+  }
+
+.MainTitle{
+    background-color: rgb(134, 219, 175);
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 25px;
+    border-style: solid;
+    border-color: hsl(152°, 82%, 9%);
+    border-width: 0.4em;
+    border-radius: 10pt;
+}
+
+/* For main title of meeting minutes */
+#myHeader{
+    color: #072616;
+    text-decoration: underline;
+}
+
+.Attendance{
+    background-color: white;
+    margin-top: 400cm;
+    margin-bottom: 40pc;
+
+}
+
+h3{
+    margin: auto;
+    padding: 5ch;
+    height: 4ex;
+    width: 4ex;
+    max-width: 40px;
+    min-width: 40px;
+}
+
