@@ -1,6 +1,12 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("/Roboto/Roboto-Black.ttf") format("truetype"),
+         
+  }
+
 /* Universal Selector */
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto;
   }
 
 /* class selector */
@@ -14,12 +20,15 @@
     border-color: hsl(152°, 82%, 9%);
     border-width: 0.4em;
     border-radius: 10pt;
+    position: static;
+    font-family: sans-serif;
 }
 
 /* ID selector */
-#hello{
+#hello:active{
     padding: 50px;
     background-color: blue;
+    color: brown;
 }
 
 /* Pseudo-class Selector */
@@ -32,7 +41,7 @@
     background-color: white;
     margin-top: 400cm;
     margin-bottom: 40pc;
-
+    
 }
 
 /* Element Selector */
@@ -48,7 +57,9 @@ h3{
 /* Attribute Selector */
 a[href="https://github.com/"] {
     color: green;
+    position: fixed;
   }
+
 /* Selector List */
 .Agenda, .VideoAndAudio, .Questions{
     padding: 2px;
@@ -80,6 +91,7 @@ img + details{
     background-color: blue;
     padding: 5px;
     margin:5px;
+    display: none;
 }
 
 /* Combining Two Selectors */
@@ -88,4 +100,39 @@ div.Business{
     padding: 5px;
     margin:5px;
     background-color: red;
+    
 }
+
+.Audio{
+    
+    display: inline-block;
+}
+
+.video{
+    display: inline;
+}
+
+.img1{
+    display: block;
+}
+
+.Business{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 4; 
+    flex-shrink: 3;
+}
+
+.VideoAndAudio{
+    display: grid;
+    grid-column-start: 2;
+    grid-column-end: five;
+    grid-row-start: row1-start;
+    grid-row-end: 3;
+}
+
+@media (color) {
+    p {
+      color: pink;
+    }
+  }
